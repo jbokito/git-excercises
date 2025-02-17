@@ -1,0 +1,1 @@
+foo.txt und bar.txt sind jetzt im Staging-Bereich (A), qux.txt bleibt untracked (??).
